@@ -22,3 +22,18 @@ python main.py
 
 ## Author
 Vardhan
+
+
+## Run Locally
+
+```bash
+git clone https://github.com/gsingamp2-cmyk/Number-Guessing-Game.git
+cd Number-Guessing-Game
+python main.py
+```
+
+If `python` doesn't work:
+
+```bash
+python3 main.py
+```
