@@ -37,3 +37,7 @@ If `python` doesn't work:
 ```bash
 python3 main.py
 ```
+## Repository
+
+Repository Link:
+https://github.com/gsingamp2-cmyk/Number-Guessing-Game
